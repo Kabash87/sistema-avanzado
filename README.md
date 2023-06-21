@@ -1,5 +1,4 @@
--Se han acomododado los errores dentro del codigo, se ha formateado con Prettier, se ha usado el Backend solicitado y agregado la funcion de borrado de publicaciones
-- Este proyecto funciona tambien con React JS, por favor ejecutar en el Terminal con el comando "npm start" antes de Ingresar al Proyecto
+- Este proyecto funciona tambien con React JS, por favor ejecutar en el Terminal con el comando "npm install" y despues "npm start" antes de Ingresar al Proyecto
 - Este proyecto funciona con Node, por favor instalar e ejecutar antes de Ingresar al Proyecto
 Link del proyecto: http://localhost:3000/
 
