@@ -1,0 +1,91 @@
+.App {
+  margin: 5px;
+  background-color: rgb(201, 195, 195);
+  padding: 5px;
+}
+
+button{
+  background-color: rgb(22, 99, 99);
+  padding: 15px;
+  border: none;
+  border-radius: 30px;
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+footer p{
+  font-size: 14px;
+}
+
+
+.ProductImg{
+border-radius: 30px;
+}
+
+.formPost{
+  
+  padding: 10px;
+}
+
+.input1, .input2,.input3,.input4,.input5{
+  
+  border-radius: 30px;
+  margin: 5px;
+  padding: 10px;
+  background-color: rgb(155, 155, 155);
+  width: 50%;
+}
+
+.input1, .input2,.input3,.input4,.input5, text{
+  display: flex;
+    align-items: center;
+    padding: 1rem 1rem;
+}
+
+.input-post{
+  border-radius: 20px;
+  padding: 7px 20px;
+  border: none;
+  font-size: 16px;
+  font-family: Helvetica;
+  position: relative;
+  flex: 1 1 auto;
+  
+}
+
+.input-post2{
+  border-radius: 20px;
+  padding: 7px 20px;
+  border: none;
+  font-size: 16px;
+  font-family: Helvetica;
+  position: relative;
+  flex: 1 1 auto;
+  margin: 5px;
+  
+}
+
+.buscador-input{
+  border-radius: 20px;
+  padding: 7px 20px;
+  border: none;
+  font-size: 16px;
+  font-family: Helvetica;
+  position: relative;
+  width: 55%;
+  margin: 5px;
+}
+
+
+.loginForm input{
+  border-radius: 20px;
+  padding: 7px 20px;
+  border: none;
+  font-size: 16px;
+  font-family: Helvetica;
+  position: relative;
+  flex: 1 1 auto;
+  margin: 5px;
+}

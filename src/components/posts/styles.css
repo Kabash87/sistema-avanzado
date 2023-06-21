@@ -1,0 +1,111 @@
+.posts1{ 
+    background-color: rgb(155, 155, 155);
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+    width: 700px;
+    height: 280px;
+    column-count: 2;
+    position: relative;
+    right: -19%;
+    }
+.posts1 img{
+    margin: 14px;
+}
+ .posts2{
+    background-color: rgb(155, 155, 155);
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+    width: 800px;
+    height: 290px;
+    column-count: 2;
+    position: relative;
+    right: -17%;
+    }
+    .posts2 img{
+        margin: 10px;
+    }
+a{
+    text-decoration: none;
+    color: black;
+}
+    .botones{
+        padding: 5px;
+    }
+    .botones .Logout{
+     margin: 10px;
+    }
+.priceInfo{
+    border-radius: 40px;
+    width: 60px;
+    height: 25px;
+    text-align: center;
+    background-color: rgb(0, 156, 0);
+    margin: 5px;
+}
+.priceInfo p{
+    color: white;
+    font-weight: 500;
+}
+
+/**Colores y Configuracion de los tags*/
+.tagInfo{
+    border-radius: 40px;
+    width: 100px;
+    height: 25px;
+    text-align:center;
+    background-color: rgb(206, 82, 0);
+    margin: 5px;
+}
+
+.tagInfo p{
+    color: white;
+    font-weight: 500;
+}
+
+/*Configuracion de los Input de Compra y Venta*/
+
+.input{
+    display: flex;
+    position: relative;
+    margin: 6px;
+    left: 35%;
+}
+
+/**Colores y Configuracion de Venta*/
+.tagSell{
+    border-radius: 40px;
+    width: 100px;
+    height: 25px;
+    text-align:center;
+    background-color: rgb(68, 27, 253);
+    margin: 5px;
+}
+
+.tagSell p{
+    color: white;
+    font-weight: 500;
+}
+
+/**Buscador de Publicaciones**/
+.Buscador{
+    position: relative;
+    right: -20%;
+    background-color: rgb(155, 155, 155);
+    width: 700px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.tipo{
+    border-radius: 20px;
+  padding: 7px 20px;
+  border: none;
+  font-size: 16px;
+  font-family: Helvetica;
+  position: relative;
+  flex: 1 1 auto;
+}
